@@ -1,9 +1,11 @@
 import Clock from './components/Clock'
 
 function App() {
+
+ 
   return (
        <div>
-           <Clock local= 'bn-BD'> Clock</Clock> 
+           <Clock > Clock</Clock> 
          
        </div>
   );
